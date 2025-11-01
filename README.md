@@ -98,7 +98,7 @@ This will be displayed in the Awards section of your CV.<br /><br />
 <h4>Work Experience</h4>
 
 You can define multiple @work entries to include your work experience such as position, organization, start year, end year, etc. For example:<br /><br />
-P
+
 <pre>
 @work{Zhang_2010a,
      position={Professor},
