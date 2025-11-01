@@ -153,9 +153,7 @@ This will be displayed in the Presentations section of your CV.<br /><br />
 
 <span class="bibauthor">Yuan, K.-H. and Zhang, Z. </span> (2015). <span class="bibtitle"><em>Methods and software for statistical power analysis with non-normal data</em></span>. Symposium presented at the 27th Annual Convention of the Association for Psychological Science, New York, NY. 
 
-      <br />
-      <br />
-      bib2cv is developed by <a href="https://bigdatalab.nd.edu" target="_blank">Johnny Zhang</a> based on <a href="https://github.com/monperrus/bibtexbrowser" target="_blank">bibtexbrowser</a> by <a href="https://github.com/monperrus" target="_blank">Martin Monperrus</a>.
+<br />
+<br />
+bib2cv is developed by <a href="https://bigdatalab.nd.edu" target="_blank">Johnny Zhang</a> based on <a href="https://github.com/monperrus/bibtexbrowser" target="_blank">bibtexbrowser</a> by <a href="https://github.com/monperrus" target="_blank">Martin Monperrus</a>.
 
-     </div>
-</div>
